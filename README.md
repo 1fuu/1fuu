@@ -1,2 +1,2 @@
-- :sleeping: 정 태민(Taemin Jeong), Developer
+- :sleeping: 정 태민(Taemin Jeong), Student
 - :mortar_board: Computer Engineering, Hongik Univ.
