@@ -1,1 +1,2 @@
-# Introduction
+- test
+- :mortar_board: Computer Engineering, Hongik Univ.
