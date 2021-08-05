@@ -1,2 +1,2 @@
-- :simple_smile: 정태민(Taemin Jeong), Developer
+- :sleeping: 정 태민(Taemin Jeong), Developer
 - :mortar_board: Computer Engineering, Hongik Univ.
