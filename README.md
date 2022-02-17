@@ -1,2 +1,2 @@
-- :guardsman: 정 태민(Taemin Jeong), Student
+- :guardsman:😎👨‍💻 정 태민(Taemin Jeong), Student
 - :mortar_board: Computer Engineering, Hongik Univ.
