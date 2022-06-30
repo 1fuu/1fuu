@@ -1,6 +1,7 @@
 # INTRODUCTION
 - 😎 정 태민(Taemin Jeong), Developer
 - :mortar_board: Computer Engineering, Hongik Univ.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1fuu)](https://github.com/1fuu/github-readme-stats)
 
 # SKILLS
