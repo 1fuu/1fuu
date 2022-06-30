@@ -1,7 +1,7 @@
 # INTRODUCTION
 - 😎 정 태민(Taemin Jeong), Developer
 - :mortar_board: Computer Engineering, Hongik Univ.
-- [Notion](https://even-diploma-902.notion.site/de711b42c5c64c7caf2c6c7af2c501e5)
+- [Notion Website](https://even-diploma-902.notion.site/de711b42c5c64c7caf2c6c7af2c501e5)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1fuu)](https://github.com/1fuu/github-readme-stats)
 
