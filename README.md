@@ -1,5 +1,5 @@
 # INTRODUCTION
-- 😎 정 태민(Taemin Jeong), Developer
+- 😎 정 태민(Taemin Jeong), Developerd
 - :mortar_board: Computer Engineering, Hongik Univ.
 - [Notion Website](https://1fuu.notion.site/de711b42c5c64c7caf2c6c7af2c501e5) (포트폴리오, 개발일지, 공부기록)
 
